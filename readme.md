@@ -1,6 +1,6 @@
 # Nexus R1 - ESP32 Gemini-Powered 2WD Robot Car
 
-An intelligent, dual-wheel drive (2WD) robotic platform controlled via a Python-based Wi-Fi server integrated with the Gemini API. This project offloads computational processing and natural language/vision reasoning to the cloud, enabling the low-power ESP32 microcontroller to focus entirely on low-latency hardware execution.
+An intelligent, dual-wheel drive (2WD) robot controlled via a Python-based Wi-Fi server integrated with the Gemini API. This project offloads computational processing and natural language/vision reasoning to the cloud, enabling the low-power ESP32 microcontroller to focus entirely on low-latency hardware execution.
 
 ## System Architecture
 
